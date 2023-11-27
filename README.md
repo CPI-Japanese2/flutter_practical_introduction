@@ -24,3 +24,5 @@ Zennの[Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_int
 ### ブランチ
 - main
 - test/counter: Application生成時に用意されているカウンタにHello Worldを追加
+- test/widget01: Chapter2: 01に従ってwidgetを変更
+- test/widget02: Chapter2: 02に従ってwidgetを変更
