@@ -20,3 +20,7 @@ Zennの[Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_int
 
 ### 動作確認済OS
 - Ubuntu 20.04
+
+### ブランチ
+- main
+- test/counter: Application生成時に用意されているカウンタにHello Worldを追加
