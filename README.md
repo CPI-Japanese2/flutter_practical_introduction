@@ -16,7 +16,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## flutterのテスト
-Zennの[Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_introduction)を参考にして環境構築し，無料で購読可能な「02.画面の更新」まで進める．
+Zennの[Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_introduction)を参考にして環境構築し，無料で購読可能な「Chapter2: 02.画面の更新」まで進める．
 
 ### 動作確認済OS
 - Ubuntu 20.04
@@ -24,3 +24,4 @@ Zennの[Flutter実践入門](https://zenn.dev/kazutxt/books/flutter_practice_int
 ### ブランチ
 - main
 - test/counter: Application生成時に用意されているカウンタにHello Worldを追加
+- test/widget01: Chapter2: 01に従ってwidgetを変更
